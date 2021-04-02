@@ -3,5 +3,5 @@ def make_call():
 
 def resolve():
     results = make_call()
-    return results[0]
+    return results
 
